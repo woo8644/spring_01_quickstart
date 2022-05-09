@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="859efc31-6f39-4897-addb-73e816feebe4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\jeffw\IdeaProjects\spring_01_quickstart\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="28O7vnlXfVuuWv5ffKpEkuks3mJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Application.App2">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sise.App" />
+      <module name="spring_01_quickstart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sise.App2" />
+      <module name="spring_01_quickstart" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sise.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App2" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="859efc31-6f39-4897-addb-73e816feebe4" name="Default Changelist" comment="" />
+      <created>1651076011605</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1651076011605</updated>
+      <workItem from="1651076015776" duration="5244000" />
+      <workItem from="1652114632843" duration="234000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="872" y="364" key="#Project_Structure" timestamp="1651076024076">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="872" y="364" key="#Project_Structure/0.0.2560.1410@0.0.2560.1410" timestamp="1651076024076" />
+    <state x="924" y="630" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1651076415065">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="924" y="630" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1651076415065" />
+    <state x="1061" y="302" key="CommitChangelistDialog2" timestamp="1652114984258">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1061" y="302" key="CommitChangelistDialog2/0.0.2560.1410@0.0.2560.1410" timestamp="1652114984258" />
+    <state x="1835" y="603" key="FileChooserDialogImpl" timestamp="1652114650431">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1835" y="603" key="FileChooserDialogImpl/0.0.2560.1410@0.0.2560.1410" timestamp="1652114650431" />
+    <state x="1604" y="1086" key="Github.ShareDialog" timestamp="1652114941265">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1604" y="1086" key="Github.ShareDialog/0.0.2560.1410@0.0.2560.1410" timestamp="1652114941265" />
+    <state width="1814" height="404" key="GridCell.Tab.0.bottom" timestamp="1652114521076">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1814" height="404" key="GridCell.Tab.0.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1652114521076" />
+    <state width="1814" height="404" key="GridCell.Tab.0.center" timestamp="1652114521076">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1814" height="404" key="GridCell.Tab.0.center/0.0.2560.1410@0.0.2560.1410" timestamp="1652114521076" />
+    <state width="1814" height="404" key="GridCell.Tab.0.left" timestamp="1652114521076">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1814" height="404" key="GridCell.Tab.0.left/0.0.2560.1410@0.0.2560.1410" timestamp="1652114521076" />
+    <state width="1814" height="404" key="GridCell.Tab.0.right" timestamp="1652114521076">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="1814" height="404" key="GridCell.Tab.0.right/0.0.2560.1410@0.0.2560.1410" timestamp="1652114521076" />
+    <state width="2517" height="496" key="GridCell.Tab.1.bottom" timestamp="1651077468627">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.1.bottom/0.0.2560.1410@0.0.2560.1410" timestamp="1651077468627" />
+    <state width="2517" height="496" key="GridCell.Tab.1.center" timestamp="1651077468627">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.1.center/0.0.2560.1410@0.0.2560.1410" timestamp="1651077468627" />
+    <state width="2517" height="496" key="GridCell.Tab.1.left" timestamp="1651077468627">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.1.left/0.0.2560.1410@0.0.2560.1410" timestamp="1651077468627" />
+    <state width="2517" height="496" key="GridCell.Tab.1.right" timestamp="1651077468627">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state width="2517" height="496" key="GridCell.Tab.1.right/0.0.2560.1410@0.0.2560.1410" timestamp="1651077468627" />
+    <state x="1482" y="504" key="SettingsEditor" timestamp="1652114868085">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1482" y="504" key="SettingsEditor/0.0.2560.1410@0.0.2560.1410" timestamp="1652114868085" />
+    <state x="1296" y="499" key="svn.repositoryBrowser" timestamp="1652114920438">
+      <screen x="0" y="0" width="2560" height="1410" />
+    </state>
+    <state x="1296" y="499" key="svn.repositoryBrowser/0.0.2560.1410@0.0.2560.1410" timestamp="1652114920438" />
+  </component>
+</project>
