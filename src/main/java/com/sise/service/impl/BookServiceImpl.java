@@ -10,6 +10,7 @@ import com.sise.dao.impl.BookDaoImpl;
  * @date
  */
 public class BookServiceImpl {
+    //此处还是开发者自己new对象，管理对象-->DI可以解决这个问题
     private BookDaoImpl bookDao = new BookDaoImpl();
 
     //create bean by Spring
